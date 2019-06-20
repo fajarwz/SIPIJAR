@@ -1,5 +1,5 @@
 # SIPIJAR
-SIPIJAR, Simple Java Swing CRUD with login. SIPIJAR stand for Sistem Informasi Peminjaman Ruangan. The algorithm is bad, this app is still not finished either, far from good, but it can implement a simple enough CRUD with login system.
+SIPIJAR, Simple Java Swing CRUD with login. SIPIJAR (Sistem Informasi Peminjaman Ruangan).
 
 login using mahasiswa
 id: 151351060
